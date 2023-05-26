@@ -11,6 +11,10 @@ tags:
   - .NET
   - C#
 published: true
+
+toc: true
+toc_label: 
+toc_icon:  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 <!-- 2023-05-10 12:15 AM PHT: started -->
