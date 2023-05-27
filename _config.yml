@@ -284,7 +284,7 @@ compress_html:
 collections:
   reviews:
     output: true # output index.html files for each reviews document in _reviews at _site/review/<document-filename>/
-    permalink: /:path/
+    # permalink: /:name/
 
 
 # Defaults

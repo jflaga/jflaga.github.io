@@ -13,7 +13,8 @@ tags:
   - Peptic ulcer
   - Medicine
   - Herbal
-published: false
+permalink: /malunggay-moringa-for-gastritis-ulcer-58ba284/
+published: true
 ---
 
 father, moringa leaves extract, 3 times
