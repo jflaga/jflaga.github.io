@@ -280,6 +280,13 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  reviews:
+    output: true # output index.html files for each reviews document in _reviews at _site/review/<document-filename>/
+    permalink: /:path/
+
+
 # Defaults
 defaults:
   # _posts
@@ -300,3 +307,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _reviews
+  - scope:
+      path: ""
+      type: reviews
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
