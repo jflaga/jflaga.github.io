@@ -1,6 +1,9 @@
 ---
-title: "Civil Service Exam for Region 12: No instructions about personal appearance"
+title: "Civil Service Exam online application: No instructions about \"personal appearance\""
 excerpt: "No clear instructions about what \"personal appearance\" means after applying for the civil service exam online."
+header:
+  image:
+  teaser: /assets/images/2023/2023-05-28-csc-email-application-cancelled.png
 date: 2023-05-28 04:00:00 PM UTC
 date_last_modified:
 categories:
@@ -8,14 +11,9 @@ categories:
 tags: 
   - CSC OCSEAS
   - ONLINE CIVIL SERVICE EXAMINATION APPLICATION SYSTEM (OCSEAS)
-  - Civil Service Commission Regional Office 12
-  - Civil Service Commission Regional Office XII
+  - Civil Service Commission
+  - Civil Service Commission
   - CAREER SERVICE PROFESSIONAL EXAMINATION
-  - Philippines
-  - Kidapawan
-  - North Cotabato
-  - Region 12
-  - Region XII
 classes: wide
 permalink: /civil-service-exam-region-12-personal-appearance-dd13181/
 published: true
@@ -53,4 +51,6 @@ I did not receive any email informing me of anything about _personal appearance_
 
 ![CSC website: forbidden error message](/assets/images/2023/2023-05-28-csc-email-list.png)
 
-Their system might have an error that needs to be fixed.
+Their system might have something wrong with it that needs to be fixed.
+
+:grin:
