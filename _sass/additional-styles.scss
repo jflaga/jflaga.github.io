@@ -1,0 +1,22 @@
+
+img {
+  max-width: 100%;
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
+
+img.emoji {
+  box-shadow: none;
+  display: inline;
+  margin: 0;
+  border-radius: 0;
+}
+
+// CSS Attribute Selectors: https://www.w3schools.com/css/css_attribute_selectors.asp
+iframe[src^="https://www.youtube.com/embed/"], // ^ means "starts with"
+embed[src$=".pdf"],
+// $ means "ends with"
+div.youtube
+{
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
+
