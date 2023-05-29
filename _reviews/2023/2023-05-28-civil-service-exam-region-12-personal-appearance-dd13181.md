@@ -2,10 +2,9 @@
 title: "Civil Service Exam online application: No instructions about \"personal appearance\""
 excerpt: "No clear instructions about what \"personal appearance\" means after applying for the civil service exam online."
 header:
-  image:
-  teaser: /assets/images/2023/2023-05-28-csc-email-application-cancelled.png
+  teaser: assets/images/2023/2023-05-28-csc-email-application-cancelled.png
 date: 2023-05-28 04:00:00 PM UTC
-date_last_modified:
+last_modified_at: 2023-05-29 03:55:00 PM UTC
 categories:
   - Reviews
 tags: 
@@ -51,6 +50,4 @@ I did not receive any email informing me of anything about _personal appearance_
 
 ![CSC website: forbidden error message](/assets/images/2023/2023-05-28-csc-email-list.png)
 
-Their system might have something wrong with it that needs to be fixed.
-
-:grin:
+Their system might have issues that needs to be fixed.
