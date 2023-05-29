@@ -20,3 +20,57 @@ div.youtube
   box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
 }
 
+/* ==========================================================================
+   MASTHEAD Gospel section
+   Basis: \_sass\minimal-mistakes\_masthead.scss
+   ========================================================================== */
+
+.masthead_gospel {
+  @include clearfix;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 1em 0.3em 1em;
+  max-width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  font-family: $sans-serif-narrow;
+
+  @include breakpoint($x-large) {
+    max-width: $max-width;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.masthead_gospel__menu {
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  clear: both;
+}
+
+.masthead_gospel__menu-item {
+  list-style-type: none;
+  float: right;
+  margin-right: 1rem;
+}
+
+
+/* ==========================================================================
+   Some CSS overriden to make things look good with the breaking changes I made
+   ========================================================================== */
+.author__avatar {
+  padding-left: 2px;
+}
+
+.masthead__inner-wrap {
+  padding-bottom: 0;
+}
+
