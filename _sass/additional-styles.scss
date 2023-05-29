@@ -68,6 +68,10 @@ div.youtube
    ========================================================================== */
 .author__avatar {
   padding-left: 2px;
+
+  img {
+    box-shadow: none;
+  }
 }
 
 .masthead__inner-wrap {
