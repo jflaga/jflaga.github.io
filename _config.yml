@@ -320,3 +320,7 @@ defaults:
       comments: true
       share: true
       comment: true
+      header:
+        image: assets/images/reviews-image-large.jpg
+        image_height: 8
+        teaser: assets/images/reviews-image-small.jpg
