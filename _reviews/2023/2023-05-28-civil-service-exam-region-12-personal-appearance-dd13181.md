@@ -15,7 +15,7 @@ tags:
   - CAREER SERVICE PROFESSIONAL EXAMINATION
 classes: 
 permalink: /civil-service-exam-region-12-personal-appearance-dd13181/
-published: true
+published: false
 ---
 
 **TLDR:** No clear instructions about what "personal appearance" means after applying for the civil service exam online.
