@@ -48,17 +48,9 @@
     </div>
   {% else %}
 
-    {% comment %}
-    <!-- 
-    <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
-    -->
-    {% endcomment %}
+    <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image" 
+      style="height: {{page.header.image_height}}em;">
 
-    <div class="page__hero--overlay" style="background-image: url('{{ page.header.image | relative_url }}');" > 
-      {% for i in (1..page.header.image_height) reversed %}
-        <br />
-      {% endfor %}
-    </div>
 
   {% endif %}
   {% if page.header.caption %}

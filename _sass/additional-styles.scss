@@ -80,5 +80,10 @@ div.youtube
 }
 
 .page__hero {
-  margin-bottom: 0;
+  margin-bottom: 1em;
+}
+
+.page__hero-image {
+  object-fit: cover;
+  box-shadow: none;
 }
