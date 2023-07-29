@@ -285,6 +285,8 @@ collections:
   reviews:
     output: true # output index.html files for each reviews document in _reviews at _site/review/<document-filename>/
     # permalink: /:name/
+  journal:
+    output: true
 
 
 # Defaults
@@ -322,5 +324,23 @@ defaults:
       comment: true
       header:
         image: assets/images/reviews-image-large.jpg
-        image_height: 10
+        image_height: 20
         teaser: assets/images/reviews-image-small.jpg
+        caption: "Photo credit: [**Pexels**](https://www.pexels.com/)"
+  # _journal
+  - scope:
+      path: ""
+      type: journal
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      show_date: true
+      comments: true
+      share: true
+      comment: true
+      header:
+        image: assets/images/journal-image-large.jpg
+        image_height: 20
+        teaser: assets/images/journal-image-small.jpg
+        caption: "Photo credit: [**Pexels**](https://www.pexels.com/)"
