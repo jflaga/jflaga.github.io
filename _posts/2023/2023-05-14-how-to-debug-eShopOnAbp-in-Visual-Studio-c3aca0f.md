@@ -7,6 +7,7 @@ categories:
   - Programming
 tags: 
   - ABP Framework
+  - ABP.IO Platform
   - eShopOnAbp
   - .NET
   - C#
@@ -64,11 +65,14 @@ This downloads the Docker images, creates containers, then builds the project.
 **Wait until all applications are running.**
 
 
-### Open the Tye dashboard ([http://localhost:8000](http://localhost:8000)) in a browser
+**Open the Tye dashboard ([http://localhost:8000](http://localhost:8000)) in a browser**
 
 Please read [eShopOnAbp's README](https://github.com/abpframework/eShopOnAbp#readme) for solutions to some errors you might encounter.
 
+Public Web app: https://localhost:44335
 
+Username: admin@abp.io
+Password: 1q2w3E*
 
 ## 3. Start the Angular application
 
@@ -77,6 +81,8 @@ cd apps/angular
 yarn
 yarn start
 ```
+
+http://localhost:4200/
 
 ## 4. Debug a microservice in Visual Studio
 

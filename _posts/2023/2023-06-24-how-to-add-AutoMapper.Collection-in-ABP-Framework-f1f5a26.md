@@ -9,6 +9,7 @@ tags:
   - AutoMapper.Collection
   - AutoMapper
   - ABP Framework
+  - ABP.IO Platform
   - ASP.NET
 published: true
 
