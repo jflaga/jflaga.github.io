@@ -4,7 +4,7 @@ excerpt: ""
 date: 2023-06-24 05:00:00 PM UTC
 last_modified_at:
 categories:
-  - Miscellaneous
+  - Programming
 tags: 
   - AutoMapper.Collection
   - AutoMapper
