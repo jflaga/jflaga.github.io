@@ -18,7 +18,6 @@ tags:
   - Peptic ulcer
   - Medicine
   - Herbal
-permalink: /malunggay-moringa-for-gastritis-ulcer-58ba284/
 published: true
 ---
 

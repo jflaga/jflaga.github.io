@@ -14,7 +14,6 @@ tags:
   - Civil Service Commission
   - CAREER SERVICE PROFESSIONAL EXAMINATION
 classes: 
-permalink: /civil-service-exam-region-12-personal-appearance-dd13181/
 published: true
 ---
 
