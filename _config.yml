@@ -128,6 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "StackOverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/1451757/jflaga"
 
 # Site Footer
 footer:
@@ -140,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/jflaga"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -150,6 +153,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "StackOverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://github.com/jflaga"
 
 
 # Reading Files
@@ -284,9 +290,10 @@ compress_html:
 collections:
   reviews:
     output: true # output index.html files for each reviews document in _reviews at _site/review/<document-filename>/
-    # permalink: /:name/
+    permalink: /:title/
   journal:
     output: true
+    permalink: /:title/
 
 
 # Defaults
