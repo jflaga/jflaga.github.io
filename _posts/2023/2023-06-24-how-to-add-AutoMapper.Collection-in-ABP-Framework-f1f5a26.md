@@ -25,18 +25,6 @@ toc_icon:  # corresponding Font Awesome icon name (without fa prefix)
 PM> Install-Package AutoMapper.Collection
 ```
 
-If you are using the older Entity Framework:
-
-``` terminal
-PM> Install-Package AutoMapper.Collection.EntityFramework
-```
-
-If you are using the older Entity Framework Core:
-
-``` terminal
-PM> Install-Package AutoMapper.Collection.EntityFrameworkCore
-```
-
 
 ### 2. Call `AddCollectionMappers()` in your AbpModule class
 
@@ -76,5 +64,21 @@ public class AutoMapperProfile : Profile
 }
 ```
 
-
 Please see the [AutoMapper.Collection docs](https://github.com/AutoMapper/AutoMapper.Collection) for the explanation of what `EqualityComparison()` does.
+
+-------
+
+I created a demo for this using the Todo App from the abp-samples repository.
+
+Go [here](https://github.com/jflaga/abp-samples/tree/jflaga/play/AutoMapper.Collection/TodoApp/Angular-EfCore/aspnet-core) to view the demo.
+
+Or clone my fork of the abp-samples repository, then checkout branch `play/AutoMapper.Collection`
+
+``` terminal
+> git clone https://github.com/jflaga/abp-samples.git
+> git checkout play/AutoMapper.Collection
+```
+
+
+(NOTE: AutoMapper.Collection does not work with `IReadOnlyCollection`. A solution can be found [here](https://github.com/AutoMapper/AutoMapper.Collection/issues/132#issuecomment-539411397)) 
+
