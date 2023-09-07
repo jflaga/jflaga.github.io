@@ -2,7 +2,7 @@
 title: "How to debug eShopOnAbp in Visual Studio 2022"
 excerpt: "This is for eShopOnAbp which was just updated to .NET 7, ABP 7, and Angular 15"
 date: 2023-05-14 12:00:00 AM UTC
-last_modified_at: 
+date_last_modified: 
 categories:
   - Programming
 tags: 

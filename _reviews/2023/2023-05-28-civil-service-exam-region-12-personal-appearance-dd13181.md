@@ -4,9 +4,9 @@ excerpt: "No clear instructions about what \"personal appearance\" means after a
 header:
   teaser: assets/images/2023/2023-05-28-csc-email-application-cancelled.png
 date: 2023-05-28 04:00:00 PM UTC
-last_modified_at: 2023-06-05 00:00:00 AM UTC
+date_last_modified: 2023-06-05 00:00:00 AM UTC
 categories:
-  - Reviews
+  - Review
 tags: 
   - CSC OCSEAS
   - ONLINE CIVIL SERVICE EXAMINATION APPLICATION SYSTEM (OCSEAS)

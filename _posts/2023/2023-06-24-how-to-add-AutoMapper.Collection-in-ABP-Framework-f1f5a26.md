@@ -2,7 +2,7 @@
 title: "How to add AutoMapper.Collection in ABP Framework"
 excerpt: ""
 date: 2023-06-24 05:00:00 PM UTC
-last_modified_at:
+date_last_modified: 2023-09-07 03:30:00 PM UTC
 categories:
   - Programming
 tags: 

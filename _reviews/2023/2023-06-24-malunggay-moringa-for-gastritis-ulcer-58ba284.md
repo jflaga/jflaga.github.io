@@ -7,9 +7,9 @@ header:
   teaser: /assets/images/2023/2023-06-24-malunggay-moringa-small.jpg
   caption: "Photo credit: [**Pexels**](https://www.pexels.com/)"
 date: 2023-06-24 04:00:00 PM UTC
-last_modified_at: 2023-07-29 12:30:00 PM UTC
+date_last_modified: 2023-07-29 12:30:00 PM UTC
 categories:
-  - Reviews
+  - Review
 tags: 
   - Malunggay
   - Moringa
