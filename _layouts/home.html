@@ -4,7 +4,7 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -20,3 +20,19 @@ layout: archive
 </div>
 
 {% include paginator.html %}
+
+
+<div> <!-- Old blogs -->  
+  <hr />
+  <h4>Old Blogs:</h4>
+
+  <p>
+    <a href="https://jeremiahflaga.github.io/">jeremiahflaga.github.io</a>
+  </p>
+  <p>
+    <a href="https://jboyflaga2.blogspot.com/">jboyflaga2.blogspot.com</a>
+  </p>
+    <p>
+  <a href="https://jeremiahflaga.blogspot.com/">jeremiahflaga.blogspot.com</a>
+  </p>
+</div>
