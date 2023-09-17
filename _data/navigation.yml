@@ -1,5 +1,11 @@
 # main links
 main:
+  - title: "Blog"
+    url: /
+  - title: "Reviews"
+    url: /reviews
+  - title: "Journal"
+    url: /journal
   # - title: "The Good News"
   #   url: https://www.youtube.com/watch?v=bxzuh5Xx5G4
   # - title: "... simpler version"
