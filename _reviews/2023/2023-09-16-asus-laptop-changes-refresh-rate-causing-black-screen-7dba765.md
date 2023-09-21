@@ -82,4 +82,4 @@ After many months of annoyance this has caused me, I think I have found the sett
 
    ![Intel Graphics Command Center - Adaptive Sync](/assets/images/2023/2023-09-16-intel-graphics-command-center-adaptive-sync.png)
 
-I'm hoping that ASUS will spend time and effort and money to fix this issue.
+I'm hoping that ASUS will fix this issue soon.
