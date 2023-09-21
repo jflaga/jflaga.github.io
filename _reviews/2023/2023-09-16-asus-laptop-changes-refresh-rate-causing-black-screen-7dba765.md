@@ -40,9 +40,9 @@ Because of this experience, I had memorised how to set the refresh rate from 144
 
    This opens the "Advanced display" window.
 
-5. Press Tab key 4 times.
+5. Press Tab key 4 times. Then Press Enter
 
-   This navigates to the dropdown for "Choose a refresh rate"
+   This navigates to the dropdown for "Choose a refresh rate", then opens it making it ready for selection.
 
 6. Press the Move Down button on the keyboard two times
 
