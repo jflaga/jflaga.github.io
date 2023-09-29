@@ -16,7 +16,7 @@ Sunday, September 17, 2023
 
 I have been reading the book "Near Christianity: How Journeys along Jewish-Christian Borders Saved My Faith in God" by Anthony Le Donne.
 
-I got the book from BookSale. What made me buy the book was the title of Chapter 3: "On the Border of Jesus and Genocide". It talks about Anti-semitism and Christianity, and the contributions of Christianity on the persecution of Jews during the time of Hitler.
+I got the book from BookSale in a mall in Davao. What made me buy the book was the title of Chapter 3: "On the Border of Jesus and Genocide". It talks about Anti-semitism and Christianity, and the contributions of Christianity on the persecution of Jews during the time of Hitler.
 
 > If ever the book which I am not going to write is written it must be the full confession by Christendom of Christendom’s specific contribution to the sum of human cruelty and treachery. Large areas of "the World" will not hear us till we have publicly disowned much of our past.
 > 
@@ -24,7 +24,7 @@ I got the book from BookSale. What made me buy the book was the title of Chapter
 
 That quote is from the [epigraph](https://en.wikipedia.org/wiki/Epigraph_(literature)) of that chapter.
 
-I already have a little bit of an idea about the contributions of Christianity to the Holocaust through some articles I found a few years back: for example, ["Was Luther Anti-Semitic?"](https://www.christianitytoday.com/history/issues/issue-39/was-luther-anti-semitic.html) by Eric W. Gritsch, and ["Baptists 'humbled' by failure to oppose Nazis"](https://www.baptistpress.com/resource-library/news/baptists-humbled-by-failure-to-oppose-nazis/) by David Roach. I bought the book to learn more about that.
+I already have a little bit of idea about the contributions of Christianity to the Holocaust through some articles I found a few years back: for example, ["Was Luther Anti-Semitic?"](https://www.christianitytoday.com/history/issues/issue-39/was-luther-anti-semitic.html) by Eric W. Gritsch, and ["Baptists 'humbled' by failure to oppose Nazis"](https://www.baptistpress.com/resource-library/news/baptists-humbled-by-failure-to-oppose-nazis/) by David Roach. I bought the book to learn more about that.
 
 One of the things I learned from the book is that there are Jews living today who do not like the generally negative things which are being said by Christians about the Pharisees.
 
@@ -34,7 +34,7 @@ And here is the reason why: In page 115-116 of the book, it says
 
 > In their first-century context, Pharisees varied widely in a number of respects. But even when their general characteristics are summarized, they do not turn out to be all that different from Jesus. Jesus probably argues most often with the Pharisees because he has the most in common with them.
 
-That characterization of the Pharisees is confirmed in another book in my reading list: "Accidental Pharisees" by Larry Osborne.
+That positive characterization of the Pharisees is confirmed in another book in my reading list: "Accidental Pharisees" by Larry Osborne.
 
 In page 23-24, it says
 
