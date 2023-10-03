@@ -1,5 +1,5 @@
 ---
-title: "A good rule on how to use AutoMapper"
+title: "A good rule when using AutoMapper"
 excerpt: ""
 date: 2023-09-30 12:00:00 AM UTC
 date_last_modified:
