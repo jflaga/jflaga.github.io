@@ -108,6 +108,10 @@ div.youtube
 //   width: 100%;
 // }
 
-a {
-  text-decoration: none;
+.page__content {
+  a,
+  a:visited {
+    text-decoration: none;
+    color: #358ca7;
+  }
 }
