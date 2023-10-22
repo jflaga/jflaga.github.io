@@ -14,7 +14,7 @@ tags:
   - Civil Service Commission
   - CAREER SERVICE PROFESSIONAL EXAMINATION
 classes: 
-published: true
+published: false
 ---
 
 **TLDR:** No clear instructions about what "personal appearance" means after applying for the civil service exam online.
