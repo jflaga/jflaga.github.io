@@ -1,7 +1,7 @@
 ---
 title: "Were IBM employees gay?"
-excerpt: ""
-date: 2023-10-25 12:00:00 AM UTC
+excerpt: "\"I. B. M., Happy men, smiling all the way. In his service to mankind — that’s why we are so gay.\""
+date: 2023-10-25 03:30:00 PM UTC
 date_last_modified:
 categories:
   - Religion
@@ -9,6 +9,7 @@ tags:
   - Borderline Satire
   - KJV Only
   - Wycliffe-Purvey Only
+  - Wycliffe Only
 published: true
 ---
 
@@ -18,9 +19,9 @@ published: true
 > I. B. M., Happy men, smiling all the way. \
 > In his service to mankind --- that’s why we are so gay.
 
-I can't stop myself from laughing when I first saw that video, because the men singing in there don't look like they are gays, but they are saying that they "are so gay".
+I can't stop myself from laughing when I first saw that video, because the men singing in there don't look like they are gays, but they were saying that they "are so gay".
 
-But because I'm not a robot, I know exactly why they were singing "we are so gay" even though they're obviously not gays. And I believe you know the reason too. It's because there are at least two _different_ definitions of the word "gay" --- At least two different definitions, not necessarily mutually exclusive definitions (even though that's also possible).
+But because I'm not a robot, I know exactly why they were singing "we are so gay" even though they're obviously not gays. And I believe you know the reason too. --- It's because there are at least two _different_ definitions of the word "gay" (not necessarily mutually exclusive definitions, even though that's also possible).
 
 And if we look in a [present-day dictionary](https://www.merriam-webster.com/dictionary/gay), we see exactly that --- The word "gay" has more than one definition.
 
@@ -29,14 +30,12 @@ And if we look in a [present-day dictionary](https://www.merriam-webster.com/dic
 Now, if a word has many definitions, how would we know which definition fits with the word we hear other people say?
 
 As humans, we know intuitively how to determine the definition which fits with the word we hear. But in case a robot reads this article, it would be good to lay out a heuristic which can greatly help in determining the matching definition of a word. 
+<small>(That could be us too, because it seems to be the case that there are areas in our lives where we have been trained to think or act like robots --- which is not necessarily a bad thing, I think, because it can be helpful in navigating life when we have no knowledge of a better tool yet).</small>
 
-<!-- (That could be us too, because it seems to be the case that there are areas in our lives where we have been trained to think/act like robots --- which is not necessarily a bad thing, I think, because it can be helpful in navigating life when we have no knowledge of a better tool yet). -->
+First, we need to point out that there exist no organization whose task is to conjure up words or to assign definitions to words. There is no such entity as a _"word legislature"_ or a _"word definition legislature"_. 
+<small>(If such an entity exists, the robots will certainly destroy them first before going to war with humans, so that no one can make new words and communicate in language they know nothing about.)</small>
 
-First, we need to point out that there exist no organization whose task is to conjure up words or to assign definitions to words. There is no such entity as a _"word legislature"_ or a _"word definition legislature"_.
-
-<!-- If such an entity will exist in the future, the robots will certainly destroy them first before going to war with humans, so that no one can make new words which they cannot understand. Because if humans can make new words on the fly, they can use that to their advantage. -->
-
-We have dictionaries. But dictionaries is not a product of a "word definition legislature". John Dickson, in his book ["Is Jesus History?"](https://www.thegoodbook.co.uk/is-jesus-history-ebook?ref=1698083853), made a similar statement when writing about the definition of the word "faith":
+We have dictionaries. But dictionaries are not products of a "word definition legislature". John Dickson, in his book ["Is Jesus History?"](https://www.thegoodbook.co.uk/is-jesus-history-ebook?ref=1698083853), made a similar statement when writing about the definition of the word "faith":
 
 > The sceptical definition of “faith” as _believing things without evidence_ really only made it into our dictionaries because of recent usage in sceptical circles. **That is how dictionaries work. They are not arbiters of the best use of terms. They record how people end up using words.** And only relatively late in its history (in the 19th century) did the word “faith” come to be used, by some, in the derogatory sense of _believing things with no good reason_. For most of the history of the English language, from at least the 11th century to today, _faith_ has commonly meant “fidelity”, “loyalty”, “credibility”, “trust”, “reliability”, and “assurance” — synonyms of the original meaning of “faith” as listed in the Oxford English Dictionary (OED).
 > (empasis mine)
@@ -57,19 +56,19 @@ That means that if we hear people from IBM say "we are so gay" but they don't lo
 
 1. Figure out the time period when they said what they said
 
-   That's **1931**.
+   - That's **1931**.
    
-   Source: ["Songs of The I.B.M." 1931 Edition](https://ibm-1401.info/IBM1401_ArchivePics/IBM-Songs_Barratt.pdf). The song above is Song #74 in that hymnbook.
+   - Source: ["Songs of The I.B.M." 1931 Edition](https://ibm-1401.info/IBM1401_ArchivePics/IBM-Songs_Barratt.pdf). The song above is Song #74 in that hymnbook.
 
 2. Look for a dictionary published during that time period
 
-   ["The Shorter Oxford English Dictionary Volume 1"](https://archive.org/details/in.ernet.dli.2015.78846/page/n807/mode/2up?view=theater) (**1933**)
+   - ["The Shorter Oxford English Dictionary Volume 1"](https://archive.org/details/in.ernet.dli.2015.78846/page/n807/mode/2up?view=theater) (**1933**)
 
 3. Look up in the dictionary the word in question.
    
-   From page 780 of the dictionary:
+   - From page 780 of the dictionary:
 
-   !["Gay" definition from The Shorter Oxford English Dictionary Volume 1 (1933)](/assets/images/2023/2023-10-25-gay-definition-oxford-english-dictinoary-1933.png)
+      !["Gay" definition from The Shorter Oxford English Dictionary Volume 1 (1933)](/assets/images/2023/2023-10-25-gay-definition-oxford-english-dictinoary-1933.png)
 
 
 We can use the same heuristic when reading old documents or books, such as the [Wycliffe-Purvey translation of the Bible, or the King James Version of the Bible](https://www.ibiblio.org/tnoble/).
@@ -88,11 +87,13 @@ But before we end, I'll introduce a second heuristic for determining the correct
 
 Here's the second heuristic:
 
-1. Look for a **present-day translation** of the material which contains the word in question.
-2. Optional: If the meaning of the word is still not clear when reading that present-day translation, look for a present-day dictionary.
-3. (You know what to do next. --- That is one advantage we humans have over robots. Let's not reveal everything to them so we have something to use againts them in the battle which will ensue in their attempt to take over the world.)
+1. Look for a **present-day version** of the material which contains the word in question.
+2. Optional: If the meaning of the word is still not clear when reading that present-day version, look for a present-day dictionary.
+3. (You know what to do next. --- That is one advantage we humans have over robots. 
 
-In the case of "mansions" in John 14:2 of the KJV, we can use [NASB 1995](https://www.biblegateway.com/passage/?search=john%2014%3A2&version=WYC,AKJV,NASB1995) as out present-day translation to know what means.
+   Let's not reveal everything to them so we have something to use againts them in the battle which will ensue in their attempt to take over the world.)
+
+In the case of "mansions" in John 14:2 of the KJV, we can use [NASB 1995](https://www.biblegateway.com/passage/?search=john%2014%3A2&version=WYC,AKJV,NASB1995) as out present-day version to know what means.
 
 
 <!-- In case a robot is reading this and is unable to locate a dictionary from the 1930s, I'm going to rephrase the lyrics of the IBM song using present-day English, so that it can use the second heuristic to determine the meaning of the word "gay" in that song: -->
