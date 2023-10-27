@@ -1,5 +1,5 @@
 ---
-title: "Were IBM employees gay?"
+title: "What did IBM employees mean by \"we are so gay\""
 excerpt: "\"I. B. M., Happy men, smiling all the way. In his service to mankind — that’s why we are so gay.\""
 date: 2023-10-25 03:30:00 PM UTC
 date_last_modified:
