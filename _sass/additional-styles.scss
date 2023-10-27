@@ -138,3 +138,10 @@ blockquote {
 .page__content li p {
   margin-bottom: 0.5em;
 }
+
+.grid__item .archive__item-teaser {
+  max-height: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
