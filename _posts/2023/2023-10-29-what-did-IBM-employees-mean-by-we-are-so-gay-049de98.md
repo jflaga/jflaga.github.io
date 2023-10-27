@@ -42,6 +42,8 @@ We have dictionaries. But dictionaries are not products of a "word definition le
 
 Let me repeat that: _"[Dictionaries] are not arbiters of the best use of terms. They [just] **record how people end up using words**."_
 
+As a language develops, the number of definitions of a word in that language might pile up. Which means older dictionaries might contain a fewer number of definitions for a word.
+
 That gives us an idea of a heuristic we can use to determine the correct definition of a word in question:
 
 ## Heuristic
