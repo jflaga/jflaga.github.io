@@ -310,6 +310,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_category: true
   # _pages
   - scope:
       path: "_pages"
@@ -334,6 +335,7 @@ defaults:
         image_height: 20
         teaser: assets/images/reviews-image-small.jpg
         caption: "Photo credit: [**Pexels**](https://www.pexels.com/)"
+      # show_category: true
   # _journal
   - scope:
       path: ""
@@ -351,3 +353,4 @@ defaults:
         image_height: 20
         teaser: assets/images/journal-image-small.jpg
         caption: "Photo credit: [**Pexels**](https://www.pexels.com/)"
+      # show_category: true
