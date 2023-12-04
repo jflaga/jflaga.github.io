@@ -7,7 +7,7 @@ categories:
   - Journal
 tags: 
   - ASUS
-published: true
+published: false
 ---
 
 My ASUS laptop's screen is sporadically turning black, and this has been happening for many months already. It also turns black when I unplug my external display (which is also an ASUS monitor) or when I unplug the power cord.
