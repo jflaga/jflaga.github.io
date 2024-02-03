@@ -25,6 +25,7 @@ Note that the _blocks_ named `Build` and `Push` contains a `prologue` for loggin
 
 Also, you need to replace the Docker Hub repository name. Mine is named `jflaga/demo` in the `.yml` file below. Replace that with the name of your repository.
 
+You also need to create a secret in Semaphore for `$DOCKERHUB_USERNAME` and `$DOCKERHUB_PASSWORD`.
 
 ``` yaml
 version: v1.0
