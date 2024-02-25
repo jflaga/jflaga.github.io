@@ -2,7 +2,7 @@
 title: "How to use Testcontainers and Postgres in the tests for ABP Framework's Application Services"
 excerpt: ""
 date: 2023-08-27 02:45:00 PM UTC
-date_last_modified:
+date_last_modified: 2024-02-25 01:20:00 PM UTC
 categories:
   - Programming
 tags: 
@@ -13,6 +13,21 @@ tags:
   - ASP.NET
 published: true
 ---
+
+<br />
+
+**Update:**
+
+Please refer to [this answer](https://github.com/abpframework/abp/discussions/17490#discussioncomment-8557112) from the GitHub Discussions page of ABP:
+
+> The best method I found is to follow the same architecture used in MongoDB tests, which is using xunit's Collection Fixtures: ...
+>  
+> --- by @ahmednfwela
+
+<br />
+
+
+-----
 
 I first learned about [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet) from Nick Chapsas' video titled ["The cleanest way to use Docker for testing in .NET"](https://www.youtube.com/watch?v=01ZMTkoAhyM).
 
